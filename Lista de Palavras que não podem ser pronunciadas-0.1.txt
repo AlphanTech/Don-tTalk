@@ -8,7 +8,7 @@ palavras:
 
 	vacilo
 
-	viado
+	viad*
 
 	vagabund*
 
@@ -41,6 +41,18 @@ palavras:
 	puta *
 
 	porra
+	
+	balofo
+	
+	obeso
+	
+	corpulento
+	
+	rechonchudo
+	
+	corpulento
+	
+	primata
 
 	buceta
 
@@ -64,8 +76,10 @@ palavras:
 
 	preto
 
-	bolinha
+	bol*
 
+        rechonchudo        
+        
 	criolo
 
 	safad*
