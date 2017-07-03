@@ -4,7 +4,9 @@ palavras:
 
 	ta de boa
 	
-	sacanagem
+	sac*
+	
+	mano
 
 	vacilo
 
