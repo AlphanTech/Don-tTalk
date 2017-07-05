@@ -8,8 +8,6 @@ palavras:
 	
 	sac*
 	
-	na moral
-
 	vacilo
 
 	viad*
@@ -92,6 +90,7 @@ palavras:
 
 	caramba
 
+
 ações:
 
 	dedo do meio
@@ -104,4 +103,4 @@ punições:
 
 	1 palavra == 2 flexões
 
-	20 palras == 10 burpees
+	20 palavras == 10 burpees
